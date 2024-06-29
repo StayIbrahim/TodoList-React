@@ -1,0 +1,18 @@
+[
+    {
+      "role": "computer sience student ",
+      "organisation": "Esi",
+      "startDate": "Sept, 2019",
+      "endDate": "2023",
+      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Freelancer",
+      "organisation": "internet",
+      "startDate": "Aug, 2020",
+      "endDate": "present",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "history/microsoft.png"
+    }
+  ]
